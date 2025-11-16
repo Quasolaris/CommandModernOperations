@@ -1,7 +1,18 @@
 # Overview
 This directory has the configuration file needed, to have auto completion inside Sublime Text for Lua script used in [Command: Modern Operations](https://www.matrixgames.com/game/command-modern-operations) (C:MO).
 
-The following C:MO specific Lua script components are inside the auto completion:
+## Completion Status
+- Functions (Functional but no documentation)
+	- Only set for auto completion
+	- No argument place holders
+	- No Annotations
+	- No Description 
+- Types
+	- Fully implemented
+
+
+## Content when finished
+The following C:MO specific Lua script components will be inside the auto completion:
 - Functions
 	- Function name (Triggers completion)
 	- Argument placeholder that the cursor jumps to it, for better coding flow
