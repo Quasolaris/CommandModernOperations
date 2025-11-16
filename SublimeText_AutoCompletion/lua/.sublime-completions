@@ -1114,6 +1114,307 @@
             "kind": "function",
             "details": ""
         },
+        {
+            "trigger": "Altitde",
+            "contents": "Altitde",
+            "annotation": "",
+            "kind": "type",
+            "details": "It can be set using either meters or feet by adding M or FT after it."
+        },
+        {
+            "trigger": "Arc",
+            "contents": "Arc",
+            "annotation": "See Arc Codes in Doc",
+            "kind": "type",
+            "details": "Arcs for sensor and mounts. "
+        },
+        {
+            "trigger": "Armor",
+            "contents": "Armor",
+            "annotation": "The level of armor on device ",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "Awareness",
+            "contents": "Awareness",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "CargoObjectType",
+            "contents": "CargoObjectType",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "CargoStorageType",
+            "contents": "CargoStorageType",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "CargoType",
+            "contents": "CargoType",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "ContactIdStatus",
+            "contents": "ContactIdStatus",
+            "annotation": "",
+            "kind": "type",
+            "details": "The higher the level, the more accurate the information about the contact is. "
+        },
+        {
+            "trigger": "ContactType",
+            "contents": "ContactType",
+            "annotation": "",
+            "kind": "type",
+            "details": "The unit type related to the contact"
+        },
+        {
+            "trigger": "DateTime",
+            "contents": "DateTime",
+            "annotation": "",
+            "kind": "type",
+            "details": "DateTime is displayed and changed as per LOCALE"
+        },
+        {
+            "trigger": "Doctrine",
+            "contents": "Doctrine",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "Fuel",
+            "contents": "Fuel",
+            "annotation": "",
+            "kind": "type",
+            "details": "The various types of fuel(s), and their state, carried by the unit."
+        },
+        {
+            "trigger": "GUID",
+            "contents": "GUID",
+            "annotation": "",
+            "kind": "type",
+            "details": "Each object in Command is uniquely identified by a GUID."
+        },
+        {
+            "trigger": "KeyStore",
+            "contents": "KeyStore",
+            "annotation": "",
+            "kind": "type",
+            "details": "The simulation allows for user data to be stored within the save file."
+        },
+        {
+            "trigger": "LandCover",
+            "contents": "LandCover",
+            "annotation": "",
+            "kind": "type",
+            "details": "An integer indicating the type of land cover set for a custom environment zone."
+        },
+        {
+            "trigger": "Latitude",
+            "contents": "Latitude",
+            "annotation": "",
+            "kind": "type",
+            "details": "Latitude is degrees N or S of the equator."
+        },
+        {
+            "trigger": "LoadoutRole",
+            "contents": "LoadoutRole",
+            "annotation": "",
+            "kind": "type",
+            "details": "A string and number that correlates to the role of a loadout in the database. "
+        },
+        {
+            "trigger": "LoadoutTimeOfDay",
+            "contents": "LoadoutTimeOfDay",
+            "annotation": "",
+            "kind": "type",
+            "details": "A string and number that correlates to the time of day specified for a loadout in the database. "
+        },
+        {
+            "trigger": "LoadoutWeather",
+            "contents": "LoadoutWeather",
+            "annotation": "",
+            "kind": "type",
+            "details": "A string and number that correlates to the time of day specified for a loadout in the database. "
+        },
+        {
+            "trigger": "Longitude",
+            "contents": "Longitude",
+            "annotation": "",
+            "kind": "type",
+            "details": "Longitude is degrees E or W of Greenwich line"
+        },
+        {
+            "trigger": "MissionType",
+            "contents": "MissionType",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "Presets",
+            "contents": "Presets",
+            "annotation": "",
+            "kind": "type",
+            "details": "Throttle / Depth / Altitude Codes"
+        },
+        {
+            "trigger": "Proficiency",
+            "contents": "Proficiency",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "RealismSettings",
+            "contents": "RealismSettings",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "Sensor",
+            "contents": "Sensor",
+            "annotation": "",
+            "kind": "type",
+            "details": "Type / Role"
+        },
+        {
+            "trigger": "Size",
+            "contents": "Size",
+            "annotation": "",
+            "kind": "type",
+            "details": "Size various size attributes (eg flightsize in mission)."
+        },
+        {
+            "trigger": "Stance",
+            "contents": "Stance",
+            "annotation": "",
+            "kind": "type",
+            "details": "Stance/Posture: how one side sees another. "
+        },
+        {
+            "trigger": "TargetingMode",
+            "contents": "TargetingMode",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "TargetTypeWRA",
+            "contents": "TargetTypeWRA",
+            "annotation": "",
+            "kind": "type",
+            "details": "How is contact targeted."
+        },
+        {
+            "trigger": "TimeStamp",
+            "contents": "TimeStamp",
+            "annotation": "",
+            "kind": "type",
+            "details": "TimeStamp is a representation of time defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC)."
+        },
+        {
+            "trigger": "True/False",
+            "contents": "True/False",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "UnitTypes",
+            "contents": "Unit Types",
+            "annotation": "",
+            "kind": "type",
+            "details": "The base unit types available in Command. "
+        },
+        {
+            "trigger": "UnitAircraft",
+            "contents": "UnitAircraft",
+            "annotation": "",
+            "kind": "type",
+            "details": "The category and sub-type for aircraft."
+        },
+        {
+            "trigger": "UnitFacility",
+            "contents": "UnitFacility",
+            "annotation": "",
+            "kind": "type",
+            "details": "The category and sub-type for the various facility types"
+        },
+        {
+            "trigger": "UnitSatellite",
+            "contents": "UnitSatellite",
+            "annotation": "",
+            "kind": "type",
+            "details": "The category and sub-type for Satellite."
+        },
+        {
+            "trigger": "UnitShip",
+            "contents": "UnitShip",
+            "annotation": "",
+            "kind": "type",
+            "details": "The category and sub-type for Ship."
+        },
+        {
+            "trigger": "UnitSubmarine",
+            "contents": "UnitSubmarine",
+            "annotation": "",
+            "kind": "type",
+            "details": "The category and sub-type for Submarine."
+        },
+        {
+            "trigger": "Size",
+            "contents": "Size",
+            "annotation": "",
+            "kind": "type",
+            "details": ""
+        },
+        {
+            "trigger": "UIWindows",
+            "contents": "UIWindows",
+            "annotation": "",
+            "kind": "type",
+            "details": "Realism Settings "
+        },
+        {
+            "trigger": "WayPoint",
+            "contents": "WayPoint",
+            "annotation": "",
+            "kind": "type",
+            "details": "The type of waypoints (not all codes are used)"
+        },
+        {
+            "trigger": "WeaponControl",
+            "contents": "WeaponControl",
+            "annotation": "",
+            "kind": "type",
+            "details": "Weapon Control Codes "
+        },
+        {
+            "trigger": "WeaponDoctrine",
+            "contents": "WeaponDoctrine",
+            "annotation": "",
+            "kind": "type",
+            "details": "Weapon Doctrine Codes "
+        },
+        {
+            "trigger": "WeaponType",
+            "contents": "WeaponType",
+            "annotation": "",
+            "kind": "type",
+            "details": "Weapon Type Codes "
+        },
 
     ]
 }
