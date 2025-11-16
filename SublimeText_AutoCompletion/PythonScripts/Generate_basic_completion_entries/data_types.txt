@@ -1,0 +1,42 @@
+Altitde
+Arc
+Armor
+Awareness
+CargoObjectType
+CargoStorageType
+CargoType
+ContactIdStatus
+ContactType
+DateTime
+Doctrine
+Fuel
+GUID
+KeyStore
+LandCover
+Latitude
+LoadoutRole
+LoadoutTimeOfDay
+LoadoutWeather
+Longitude
+MissionType/Subtype
+Presets (Speed/altitude/depth)
+Proficiency
+Realism Settings
+Sensor
+Stance
+TargetingMode
+TargetTypeWRA
+TimeStamp
+True/False
+Unit Types
+Aircraft
+Facility
+Satellite
+Ship
+Submarine
+Size
+UI Windows
+WayPoint
+WeaponControl
+WeaponDoctrine
+WeaponType

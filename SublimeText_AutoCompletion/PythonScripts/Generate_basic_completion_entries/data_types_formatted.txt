@@ -1,0 +1,294 @@
+{
+    "trigger": "Altitde",
+    "contents": "Altitde",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Arc",
+    "contents": "Arc",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Armor",
+    "contents": "Armor",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Awareness",
+    "contents": "Awareness",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "CargoObjectType",
+    "contents": "CargoObjectType",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "CargoStorageType",
+    "contents": "CargoStorageType",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "CargoType",
+    "contents": "CargoType",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "ContactIdStatus",
+    "contents": "ContactIdStatus",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "ContactType",
+    "contents": "ContactType",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "DateTime",
+    "contents": "DateTime",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Doctrine",
+    "contents": "Doctrine",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Fuel",
+    "contents": "Fuel",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "GUID",
+    "contents": "GUID",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "KeyStore",
+    "contents": "KeyStore",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "LandCover",
+    "contents": "LandCover",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Latitude",
+    "contents": "Latitude",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "LoadoutRole",
+    "contents": "LoadoutRole",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "LoadoutTimeOfDay",
+    "contents": "LoadoutTimeOfDay",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "LoadoutWeather",
+    "contents": "LoadoutWeather",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Longitude",
+    "contents": "Longitude",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "MissionType/Subtype",
+    "contents": "MissionType/Subtype",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Presets (Speed/altitude/depth)",
+    "contents": "Presets (Speed/altitude/depth)",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Proficiency",
+    "contents": "Proficiency",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Realism Settings",
+    "contents": "Realism Settings",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Sensor",
+    "contents": "Sensor",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Stance",
+    "contents": "Stance",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "TargetingMode",
+    "contents": "TargetingMode",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "TargetTypeWRA",
+    "contents": "TargetTypeWRA",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "TimeStamp",
+    "contents": "TimeStamp",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "True/False",
+    "contents": "True/False",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Unit Types",
+    "contents": "Unit Types",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Aircraft",
+    "contents": "Aircraft",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Facility",
+    "contents": "Facility",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Satellite",
+    "contents": "Satellite",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Ship",
+    "contents": "Ship",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Submarine",
+    "contents": "Submarine",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "Size",
+    "contents": "Size",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "UI Windows",
+    "contents": "UI Windows",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "WayPoint",
+    "contents": "WayPoint",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "WeaponControl",
+    "contents": "WeaponControl",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "WeaponDoctrine",
+    "contents": "WeaponDoctrine",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
+{
+    "trigger": "WeaponType",
+    "contents": "WeaponType",
+    "annotation": "",
+    "kind": "type",
+    "details": ""
+},
