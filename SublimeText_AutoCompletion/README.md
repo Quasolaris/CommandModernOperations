@@ -23,7 +23,7 @@ The following C:MO specific Lua script components will be inside the auto comple
 	- Short description of the type
 
 
-## How to install auto completion for CommandLua in Sublime Text
+## Installation
 1. Copy the lua directory into:
 	- Linux: `/home/{YOUR_USER}/.config/sublime-text/Packages/User`.
  	- Windows: `%APPDATA%\Sublime Text 3\Packages` 
