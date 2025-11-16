@@ -1,0 +1,1119 @@
+{
+    "scope": "source.lua",
+    "completions": [
+        {
+            "trigger": "ScenEdit_EventX()",
+            "contents": "ScenEdit_EventX()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddSpecialAction()",
+            "contents": "ScenEdit_AddSpecialAction()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ExecuteEventAction()",
+            "contents": "ScenEdit_ExecuteEventAction()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ExecuteSpecialAction()",
+            "contents": "ScenEdit_ExecuteSpecialAction()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetEvent()",
+            "contents": "ScenEdit_GetEvent()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetEvents()",
+            "contents": "ScenEdit_GetEvents()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetSpecialAction()",
+            "contents": "ScenEdit_GetSpecialAction()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetAction()",
+            "contents": "ScenEdit_SetAction()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetCondition()",
+            "contents": "ScenEdit_SetCondition()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetEvent()",
+            "contents": "ScenEdit_SetEvent()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetEventAction()",
+            "contents": "ScenEdit_SetEventAction()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetEventCondition()",
+            "contents": "ScenEdit_SetEventCondition()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetEventTrigger()",
+            "contents": "ScenEdit_SetEventTrigger()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetSpecialAction()",
+            "contents": "ScenEdit_SetSpecialAction()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetTrigger()",
+            "contents": "ScenEdit_SetTrigger()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UnitC()",
+            "contents": "ScenEdit_UnitC()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UnitX()",
+            "contents": "ScenEdit_UnitX()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UnitY()",
+            "contents": "ScenEdit_UnitY()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddMission()",
+            "contents": "ScenEdit_AddMission()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AssignUnitAsTarget()",
+            "contents": "ScenEdit_AssignUnitAsTarget()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AssignUnitToMission()",
+            "contents": "ScenEdit_AssignUnitToMission()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_CreateMissionFlightPlan()",
+            "contents": "ScenEdit_CreateMissionFlightPlan()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_DeleteMission()",
+            "contents": "ScenEdit_DeleteMission()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ExportMission()",
+            "contents": "ScenEdit_ExportMission()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetMission()",
+            "contents": "ScenEdit_GetMission()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetMissions()",
+            "contents": "ScenEdit_GetMissions()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ImportMission()",
+            "contents": "ScenEdit_ImportMission()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetMission()",
+            "contents": "ScenEdit_SetMission()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_RemoveUnitAsTarget()",
+            "contents": "ScenEdit_RemoveUnitAsTarget()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddReferencePoint()",
+            "contents": "ScenEdit_AddReferencePoint()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddZone()",
+            "contents": "ScenEdit_AddZone()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_DeleteReferencePoint()",
+            "contents": "ScenEdit_DeleteReferencePoint()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetReferencePoint()",
+            "contents": "ScenEdit_GetReferencePoint()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetReferencePoints()",
+            "contents": "ScenEdit_GetReferencePoints()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_RemoveZone()",
+            "contents": "ScenEdit_RemoveZone()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetReferencePoint()",
+            "contents": "ScenEdit_SetReferencePoint()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetZone()",
+            "contents": "ScenEdit_SetZone()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_TransformZone()",
+            "contents": "ScenEdit_TransformZone()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "GetScenarioTitle()",
+            "contents": "GetScenarioTitle()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_CurrentLocalTime()",
+            "contents": "ScenEdit_CurrentLocalTime()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_CurrentTime()",
+            "contents": "ScenEdit_CurrentTime()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_EndScenario()",
+            "contents": "ScenEdit_EndScenario()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetScenHasStarted()",
+            "contents": "ScenEdit_GetScenHasStarted()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetWeather()",
+            "contents": "ScenEdit_GetWeather()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetScore()",
+            "contents": "ScenEdit_GetScore()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetTimeOfDay()",
+            "contents": "ScenEdit_GetTimeOfDay()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetStartTime()",
+            "contents": "ScenEdit_SetStartTime()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetScore()",
+            "contents": "ScenEdit_SetScore()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetTime()",
+            "contents": "ScenEdit_SetTime()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetWeather()",
+            "contents": "ScenEdit_SetWeather()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "VP_GetContact()",
+            "contents": "VP_GetContact()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "VP_GetScenario()",
+            "contents": "VP_GetScenario()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "VP_GetSide()",
+            "contents": "VP_GetSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "VP_GetSides()",
+            "contents": "VP_GetSides()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "VP_GetUnit()",
+            "contents": "VP_GetUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddReloadsToUnit()",
+            "contents": "ScenEdit_AddReloadsToUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddUnit()",
+            "contents": "ScenEdit_AddUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddWeaponToUnitMagazine()",
+            "contents": "ScenEdit_AddWeaponToUnitMagazine()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_DeleteUnit()",
+            "contents": "ScenEdit_DeleteUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetDoctrine()",
+            "contents": "ScenEdit_GetDoctrine()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetDoctrineWRA()",
+            "contents": "ScenEdit_GetDoctrineWRA()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetFormation()",
+            "contents": "ScenEdit_GetFormation()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetLoadout()",
+            "contents": "ScenEdit_GetLoadout()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetUnit()",
+            "contents": "ScenEdit_GetUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_FillMagsForLoadout()",
+            "contents": "ScenEdit_FillMagsForLoadout()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_KillUnit()",
+            "contents": "ScenEdit_KillUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_MergeUnits()",
+            "contents": "ScenEdit_MergeUnits()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_RefuelUnit()",
+            "contents": "ScenEdit_RefuelUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetDoctrine()",
+            "contents": "ScenEdit_SetDoctrine()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetDoctrineWRA()",
+            "contents": "ScenEdit_SetDoctrineWRA()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetEMCON()",
+            "contents": "ScenEdit_SetEMCON()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetLoadout()",
+            "contents": "ScenEdit_SetLoadout()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetUnit()",
+            "contents": "ScenEdit_SetUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetUnitDamage()",
+            "contents": "ScenEdit_SetUnitDamage()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SplitUnit()",
+            "contents": "ScenEdit_SplitUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_TransferCargo()",
+            "contents": "ScenEdit_TransferCargo()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UnloadCargo()",
+            "contents": "ScenEdit_UnloadCargo()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UpdateUnit()",
+            "contents": "ScenEdit_UpdateUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UpdateUnitCargo()",
+            "contents": "ScenEdit_UpdateUnitCargo()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ClearAllSideUnitsEmconConfigs()",
+            "contents": "ScenEdit_ClearAllSideUnitsEmconConfigs()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ClearUnitEmconConfigs()",
+            "contents": "ScenEdit_ClearUnitEmconConfigs()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_DuplicateEmconConfigToSide()",
+            "contents": "ScenEdit_DuplicateEmconConfigToSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_DuplicateEmconConfigToUnit()",
+            "contents": "ScenEdit_DuplicateEmconConfigToUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetUnitIntermittentEmissionConfig()",
+            "contents": "ScenEdit_GetUnitIntermittentEmissionConfig()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetSideEmconAlertness()",
+            "contents": "ScenEdit_SetSideEmconAlertness()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetUnitIntermittentEmissionConfig()",
+            "contents": "ScenEdit_SetUnitIntermittentEmissionConfig()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SwitchUnitIntermittentEmission()",
+            "contents": "ScenEdit_SwitchUnitIntermittentEmission()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AttackContact()",
+            "contents": "ScenEdit_AttackContact()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetContact()",
+            "contents": "ScenEdit_GetContact()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetContacts()",
+            "contents": "ScenEdit_GetContacts()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Command_SaveScen()",
+            "contents": "Command_SaveScen()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Exporter_SetSetting()",
+            "contents": "Exporter_SetSetting()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "GetBuildNumber()",
+            "contents": "GetBuildNumber()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ClearKeyValue()",
+            "contents": "ScenEdit_ClearKeyValue()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_CreateBarkNotification_Geo()",
+            "contents": "ScenEdit_CreateBarkNotification_Geo()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_CreateBarkNotification_Geo_Bulk()",
+            "contents": "ScenEdit_CreateBarkNotification_Geo_Bulk()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_CreateBarkNotification_Unit()",
+            "contents": "ScenEdit_CreateBarkNotification_Unit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_CreateBarkNotification_Unit_Bulk()",
+            "contents": "ScenEdit_CreateBarkNotification_Unit_Bulk()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ExportInst()",
+            "contents": "ScenEdit_ExportInst()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetKeyValue()",
+            "contents": "ScenEdit_GetKeyValue()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ImportInst()",
+            "contents": "ScenEdit_ImportInst()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_InputBox()",
+            "contents": "ScenEdit_InputBox()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_MsgBox()",
+            "contents": "ScenEdit_MsgBox()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_PlaySound()",
+            "contents": "ScenEdit_PlaySound()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_QueryDB()",
+            "contents": "ScenEdit_QueryDB()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_RunScript()",
+            "contents": "ScenEdit_RunScript()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SelectedUnits()",
+            "contents": "ScenEdit_SelectedUnits()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetKeyValue()",
+            "contents": "ScenEdit_SetKeyValue()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SpecialMessage()",
+            "contents": "ScenEdit_SpecialMessage()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UpdateRSetting()",
+            "contents": "ScenEdit_UpdateRSetting()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UseAttachment()",
+            "contents": "ScenEdit_UseAttachment()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_UseAttachmentOnSide()",
+            "contents": "ScenEdit_UseAttachmentOnSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "SetScenarioTitle()",
+            "contents": "SetScenarioTitle()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_Bearing()",
+            "contents": "Tool_Bearing()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_BuildBlankScenario()",
+            "contents": "Tool_BuildBlankScenario()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_DumpEvents()",
+            "contents": "Tool_DumpEvents()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_EmulateNoConsole()",
+            "contents": "Tool_EmulateNoConsole()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_LOS()",
+            "contents": "Tool_LOS()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_LOS_Points()",
+            "contents": "Tool_LOS_Points()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_Range()",
+            "contents": "Tool_Range()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_QueryRCS()",
+            "contents": "Tool_QueryRCS()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_QuerySoundLevel()",
+            "contents": "Tool_QuerySoundLevel()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "World_GetCircleFromPoint()",
+            "contents": "World_GetCircleFromPoint()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "World_GetElevation()",
+            "contents": "World_GetElevation()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "World_GetLocation()",
+            "contents": "World_GetLocation()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "World_GetPointFromBearing()",
+            "contents": "World_GetPointFromBearing()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "UI_CallAdvancedDialog()",
+            "contents": "UI_CallAdvancedDialog()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "UI_CallAdvancedHTMLDialog()",
+            "contents": "UI_CallAdvancedHTMLDialog()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "UI_OpenNewDatabaseWindow()",
+            "contents": "UI_OpenNewDatabaseWindow()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "UI_SelectThisUnit()",
+            "contents": "UI_SelectThisUnit()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "UI_SelectUnitsPrompt_FromSides()",
+            "contents": "UI_SelectUnitsPrompt_FromSides()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "UI_SelectUnitsPrompt_OwnSide()",
+            "contents": "UI_SelectUnitsPrompt_OwnSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "UI_SetCameraView()",
+            "contents": "UI_SetCameraView()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_ResetMessageLog()",
+            "contents": "Tool_ResetMessageLog()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "Tool_UIwindow()",
+            "contents": "Tool_UIwindow()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddCustomLoss()",
+            "contents": "ScenEdit_AddCustomLoss()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddExplosion()",
+            "contents": "ScenEdit_AddExplosion()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddMinefield()",
+            "contents": "ScenEdit_AddMinefield()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_AddSide()",
+            "contents": "ScenEdit_AddSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ClearAllAircraft()",
+            "contents": "ScenEdit_ClearAllAircraft()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_ClearAllMagazines()",
+            "contents": "ScenEdit_ClearAllMagazines()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_DeleteMine()",
+            "contents": "ScenEdit_DeleteMine()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_DeleteMinefield()",
+            "contents": "ScenEdit_DeleteMinefield()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_DistributeWeaponAtAirbase()",
+            "contents": "ScenEdit_DistributeWeaponAtAirbase()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetDateTimeTicks()",
+            "contents": "ScenEdit_GetDateTimeTicks()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetMinefield()",
+            "contents": "ScenEdit_GetMinefield()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetSideIsHuman()",
+            "contents": "ScenEdit_GetSideIsHuman()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetSideOptions()",
+            "contents": "ScenEdit_GetSideOptions()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_GetSidePosture()",
+            "contents": "ScenEdit_GetSidePosture()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_HostUnitToParent()",
+            "contents": "ScenEdit_HostUnitToParent()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_PlayerSide()",
+            "contents": "ScenEdit_PlayerSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_RemoveSide()",
+            "contents": "ScenEdit_RemoveSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_RemoveSide()",
+            "contents": "ScenEdit_RemoveSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetLoadoutAvailable()",
+            "contents": "ScenEdit_SetLoadoutAvailable()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetSideOptions()",
+            "contents": "ScenEdit_SetSideOptions()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetSidePosture()",
+            "contents": "ScenEdit_SetSidePosture()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_SetUnitSide()",
+            "contents": "ScenEdit_SetUnitSide()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "ScenEdit_WeaponAllocation()",
+            "contents": "ScenEdit_WeaponAllocation()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+        {
+            "trigger": "VP_SetTimeCompression()",
+            "contents": "VP_SetTimeCompression()",
+            "annotation": "",
+            "kind": "function",
+            "details": ""
+        },
+
+    ]
+}
